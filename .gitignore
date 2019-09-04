@@ -1,0 +1,119 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+# Ignore specific data
+cling_data.Rda
+Clingfish suction data - Raw data.csv
+#
+# Ignore all bin directories
+bin
+# Ignore all files ending with ~
+*~
+# Ignore the target directory
+# Matches "target" in any subfolder
+target/ 
+.svn/
+figs/
+out/
+TeX-Aux/
+TeXAux/
+Cache*/
+*.synctex
+*.eps
+*.gin
+#
+bla*.*
+*.bak
+*.tmp
+*.prj
+*.pdf
+#
+# gitignore / LaTeX.gitignore
+#
+*.acn
+*.acr
+*.alg
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.fdb_latexmk
+*.glg
+*.glo
+*.gls
+*.idx
+*.ilg
+*.ind
+*.ist
+*.lof
+*.log
+*.lot
+*.maf
+*.mtc
+*.mtc0
+*.nav
+*.nlo
+*.out
+*.pdfsync
+*.ps
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+*.xdy
+*.tdo
+#
+# gitignore / R.gitignore
+#
+# History files
+.Rhistory
+.Rdata
+
+# Example code in package build process
+*-Ex.R
+
+# RStudio
+.Rproj.user/
+*.Rproj
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.Rda
+# User-specific files
+.Ruserdata
+
+# Example code in package build process
+*-Ex.R
+
+# Output files from R CMD build
+/*.tar.gz
+
+# Output files from R CMD check
+/*.Rcheck/
+
+# RStudio files
+.Rproj.user/
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+.httr-oauth
+
+# knitr and R markdown default cache directories
+*_cache/
+/cache/
+
+# Temporary files created by R markdown
+*.utf8.md
+*.knit.md
+*.pdf
+*.tex
+.Rproj.user
+doc/Data_overwiev.tex
+*.pdf

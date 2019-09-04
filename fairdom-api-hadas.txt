@@ -1,0 +1,22 @@
+From: Leonov, Hadas <Hadas.Leonov@h-its.org> 
+Sent: petek, 13. april 2018 15:55
+To: Andrej Blejec <Andrej.Blejec@nib.si>
+Cc: Mueller, Wolfgang <Wolfgang.Mueller@h-its.org>
+Subject: Re: Api Testing
+ 
+Hello Andrej, 
+ 
+Sorry this has taken a while. A combination of strikes, vacations and sick-leaves basically delayed the entire process. 
+ 
+It is now possible to start testing the SEEK API at: (create yourself a user if you don’t already have one) 
+https://testing.sysmo-db.org/
+ 
+Documentation can be found here: 
+https://app.swaggerhub.com/apis/FAIRDOM/SEEK/0.2
+ 
+I have uploaded an example of using the writeAPI here: 
+https://github.com/hleonov/ipython_for_SEEK-API
+ 
+Please let me know if you have any questions, bugs to report, or any other general feedback,
+All the best,
+Hadas
